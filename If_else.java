@@ -1,6 +1,6 @@
 package helloworld;
 
-public class If_else {	
+public class If_else {
 	public static void main(String[] args)
 	{
 		int a=2;
@@ -11,7 +11,7 @@ public class If_else {
 		else if(a%2==0 & a>10)
 		{
 			System.out.println("even great");
-			
+
 		}
 		else
 		{
@@ -20,6 +20,6 @@ public class If_else {
 		int g=90;
 		a = g>10?1:2;
 		System.out.println(a);
-		
+
 	}
 }

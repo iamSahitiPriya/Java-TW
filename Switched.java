@@ -7,7 +7,7 @@ public class Switched {
 		switch(a)
 		{
 		case 1:
-			System.out.println(1);
+			System.out.println(10);
 			break;
 		case 2:
 			System.out.println(2);

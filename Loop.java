@@ -1,7 +1,7 @@
 package helloworld;
 
 public class Loop {
- 
+
 	public static void main(String[] args)
 	{
 		int i=1;
@@ -13,13 +13,13 @@ public class Loop {
 		}
 		for (i=1;i<=5;i++)
 		{
-			
+
 			for (j=1;j<=i;j++)
 			{
 				System.out.println(j	);
 			}
-			System.out.println();
+			System.out.println("hello");
 		}
-		
+
 	}
 }
